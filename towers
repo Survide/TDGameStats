@@ -1,2 +1,76 @@
-"Gunner" {
+{
+  "GunnerTower": {
+    "Gunner": {
+      "Level": 1,
+      "Price": 500,
+      "Damage": 1,
+      "Firerate": 0.3,
+      "Range": 30
+    },
+    "GunnerT2": {
+      "Level": 2,
+      "Price": 200,
+      "Damage": 1,
+      "Firerate": 0.2,
+      "Range": 30
+    },
+    "GunnerT3": {
+      "Level": 3,
+      "Price": 1350,
+      "Damage": 3,
+      "Firerate": 0.2,
+      "Range": 30
+    },
+    "GunnerT4": {
+      "Level": 4,
+      "Price": 3500,
+      "Damage": 6,
+      "Firerate": 0.15,
+      "Range": 35
+    },
+    "GunnerT5": {
+      "Level": 5,
+      "Price": 5350,
+      "Damage": 8,
+      "Firerate": 0.1,
+      "Range": 40
+    }
+  },
+  "MinigunnerTower": {
+    "Minigunner": {
+      "Level": 1,
+      "Price": 2000,
+      "Damage": 2,
+      "Firerate": 0.1,
+      "Range": 20
+    },
+    "MinigunnerT2": {
+      "Level": 2,
+      "Price": 1000,
+      "Damage": 2,
+      "Firerate": 0.08,
+      "Range": 25
+    },
+    "MinigunnerT3": {
+      "Level": 3,
+      "Price": 4500,
+      "Damage": 4,
+      "Firerate": 0.06,
+      "Range": 25
+    },
+    "MinigunnerT4": {
+      "Level": 4,
+      "Price": 6500,
+      "Damage": 6,
+      "Firerate": 0.05,
+      "Range": 28
+    },
+    "MinigunnerT5": {
+      "Level": 5,
+      "Price": 12500,
+      "Damage": 12,
+      "Firerate": 0.05,
+      "Range": 30
+    }
+  }
 }
