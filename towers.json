@@ -72,5 +72,42 @@
       "Firerate": 0.05,
       "Range": 30
     }
+  },
+  "NecromancerTower" : {
+    "Necromancer": {
+      "Level": 1,
+      "Price": 0,
+      "Damage": 2,
+      "Firerate": 0.1,
+      "Range": 20
+    },
+    "NecromancerT2": {
+      "Level": 2,
+      "Price": 0,
+      "Damage": 2,
+      "Firerate": 0.08,
+      "Range": 25
+    },
+    "NecromancerT3": {
+      "Level": 3,
+      "Price": 0,
+      "Damage": 4,
+      "Firerate": 0.06,
+      "Range": 25
+    },
+    "NecromancerT4": {
+      "Level": 4,
+      "Price": 0,
+      "Damage": 6,
+      "Firerate": 0.05,
+      "Range": 28
+    },
+    "NecromancerT5": {
+      "Level": 5,
+      "Price": 0,
+      "Damage": 12,
+      "Firerate": 0.05,
+      "Range": 30
+    }
   }
 }
