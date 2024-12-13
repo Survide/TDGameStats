@@ -1,2 +1,19 @@
-"Undeads" : {
+{
+  "Undeads" : {
+    "Undead1" : {
+      "Health" : 100
+    },
+    "Undead2" : {
+      "Health" : 100
+    },
+    "Undead3" : {
+      "Health" : 100
+    },
+    "Undead4" : {
+      "Health" : 100
+    },
+    "Undead5" : {
+      "Health" : 100
+    }
+  }
 }
